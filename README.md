@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giuliabeatriz
-- 👀 I’m interested in estudar 
-- 🌱 I’m currently learning 
+- 👀 I’m interested in study
+- 🌱 I’m currently learning ?
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
